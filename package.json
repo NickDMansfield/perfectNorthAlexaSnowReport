@@ -1,0 +1,28 @@
+{
+  "name": "perfectnorth",
+  "version": "1.0.0",
+  "description": "Retrieves and outputs the snow report from Perfect North",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDMansfield/perfectNorthAlexaSnowReport.git"
+  },
+  "keywords": [
+    "park",
+    "info"
+  ],
+  "author": "Nicholas Mansfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickDMansfield/perfectNorthAlexaSnowReport/issues"
+  },
+  "homepage": "https://github.com/NickDMansfield/perfectNorthAlexaSnowReport#readme"
+}
